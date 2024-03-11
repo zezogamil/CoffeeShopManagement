@@ -1,0 +1,4 @@
+Latte;14;18;22
+Espresso;8;12;15
+Americana;12;15;18
+Cappuccino;15;18;22

@@ -1,0 +1,13 @@
+C:\Users\abdel\source\repos\retakeProject\retakeProject\bin\Debug\retakeProject.exe.config
+C:\Users\abdel\source\repos\retakeProject\retakeProject\bin\Debug\retakeProject.exe
+C:\Users\abdel\source\repos\retakeProject\retakeProject\bin\Debug\retakeProject.pdb
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.addorder.resources
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.addproduct.resources
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.Form1.resources
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.Properties.Resources.resources
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.seeorders.resources
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.exe
+C:\Users\abdel\source\repos\retakeProject\retakeProject\obj\Debug\retakeProject.pdb

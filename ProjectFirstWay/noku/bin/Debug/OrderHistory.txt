@@ -1,0 +1,4 @@
+207;wxxex;Latte # Medium # 18 + Latte # Medium # 18 + Latte # Medium # 18;54
+961;lowoer;Latte # Large # 22 + Latte # Medium # 18 + Latte # Small # 14 + Latte # Small # 14 + Latte # Large # 22;90
+930;none;Latte # Medium # 18 + Latte # Small # 14 + Latte # Small # 14;46
+935;john;Espresso # Large # 15 + Latte # Medium # 18 + Americana # Medium # 15;48

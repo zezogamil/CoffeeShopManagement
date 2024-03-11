@@ -1,0 +1,3 @@
+Tom;990;Cuppuccino = Large = 18=Cuppuccino = Medium = 15=Cuppuccino = Medium = 15;48
+ali;274;Cuppuccino = Large = 18=Cuppuccino = Medium = 15=Cuppuccino = Medium = 15=Cuppuccino = Small = 10=Cuppuccino = Small = 10;68
+xsxs;110;Cuppuccino = Large = 18=Cuppuccino = Large = 18=Cuppuccino = Large = 18;54

@@ -1,0 +1,13 @@
+C:\Users\abdel\Desktop\noku\noku\bin\Debug\noku.exe.config
+C:\Users\abdel\Desktop\noku\noku\bin\Debug\noku.exe
+C:\Users\abdel\Desktop\noku\noku\bin\Debug\noku.pdb
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.addproducts.resources
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.homeForm.resources
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.orders.resources
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.Properties.Resources.resources
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.seeorders.resources
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.csproj.GenerateResource.cache
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.exe
+C:\Users\abdel\Desktop\noku\noku\obj\Debug\noku.pdb
